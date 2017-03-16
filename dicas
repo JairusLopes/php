@@ -1,0 +1,8 @@
+git remote add origin https://github.com/JairusLopes/php.git
+
+
+git add teste2.php
+git config --global user.email jairusgithub@gmail.com
+git config --global user.name jairuslopes
+git commit -m ok teste2.php
+git push origin master
